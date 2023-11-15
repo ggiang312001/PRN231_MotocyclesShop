@@ -1,0 +1,485 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MGiangStoreWebClient.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MGiangStoreWebClient.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\css\\.DS_Store",
+      "PackagePath": "staticwebassets\\css\\.DS_Store"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\css\\jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery.fancybox.min.css"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\img\\Avatars\\00ccf43428ef87d558da79c08ed01270.jpg",
+      "PackagePath": "staticwebassets\\img\\Avatars\\00ccf43428ef87d558da79c08ed01270.jpg"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\img\\Avatars\\1503352499044-scaled.jpg",
+      "PackagePath": "staticwebassets\\img\\Avatars\\1503352499044-scaled.jpg"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\img\\Avatars\\25dc0cac426a7ed8402e3261044787ea.jpg",
+      "PackagePath": "staticwebassets\\img\\Avatars\\25dc0cac426a7ed8402e3261044787ea.jpg"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\img\\Avatars\\75cb0647934f9be6c49634ee72a3bcc1.jpg",
+      "PackagePath": "staticwebassets\\img\\Avatars\\75cb0647934f9be6c49634ee72a3bcc1.jpg"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\img\\Avatars\\Coffin-meme-CraveFX-Mobile.jpg",
+      "PackagePath": "staticwebassets\\img\\Avatars\\Coffin-meme-CraveFX-Mobile.jpg"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\img\\Avatars\\IMG_3463.JPG",
+      "PackagePath": "staticwebassets\\img\\Avatars\\IMG_3463.JPG"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\img\\Avatars\\IMG_3614.JPG",
+      "PackagePath": "staticwebassets\\img\\Avatars\\IMG_3614.JPG"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\img\\Avatars\\IMG_6526.jpg",
+      "PackagePath": "staticwebassets\\img\\Avatars\\IMG_6526.jpg"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\img\\Avatars\\IMG_6745.jpg",
+      "PackagePath": "staticwebassets\\img\\Avatars\\IMG_6745.jpg"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\img\\Avatars\\IMG_9499.jpg",
+      "PackagePath": "staticwebassets\\img\\Avatars\\IMG_9499.jpg"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\img\\Avatars\\J7PukjSpRF4uMjVEfkFRVa.jpg",
+      "PackagePath": "staticwebassets\\img\\Avatars\\J7PukjSpRF4uMjVEfkFRVa.jpg"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\img\\Products\\00ccf43428ef87d558da79c08ed01270.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\00ccf43428ef87d558da79c08ed01270.jpg"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\img\\Products\\0fd08a30366f91e058d9ef52ed613874.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\0fd08a30366f91e058d9ef52ed613874.jpg"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\img\\Products\\1503352499044-scaled.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\1503352499044-scaled.jpg"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\img\\Products\\25dc0cac426a7ed8402e3261044787ea.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\25dc0cac426a7ed8402e3261044787ea.jpg"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\img\\Products\\2660cfd480fe99ae08e3c21a3b81d7d6.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\2660cfd480fe99ae08e3c21a3b81d7d6.jpg"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\img\\Products\\42a4e619c4c732eaab60cc7e55780c0c.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\42a4e619c4c732eaab60cc7e55780c0c.jpg"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\img\\Products\\4821a2cd8e5852d0ac756769880b495e.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\4821a2cd8e5852d0ac756769880b495e.jpg"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\img\\Products\\5c16d853736c4040732ad954a178962f.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\5c16d853736c4040732ad954a178962f.jpg"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\img\\Products\\75cb0647934f9be6c49634ee72a3bcc1.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\75cb0647934f9be6c49634ee72a3bcc1.jpg"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\img\\Products\\787709c41d841174b961c32d0d23f727.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\787709c41d841174b961c32d0d23f727.jpg"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\img\\Products\\789a927ec2adaa8fcf1f4c81602701ab.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\789a927ec2adaa8fcf1f4c81602701ab.jpg"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\img\\Products\\92100adf1582105ea4989ec896dfff86.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\92100adf1582105ea4989ec896dfff86.jpg"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\img\\Products\\946672be458f935db731b3e791b69ecb.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\946672be458f935db731b3e791b69ecb.jpg"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\img\\Products\\9a68e6958e428e45d2c059f142a050ba.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\9a68e6958e428e45d2c059f142a050ba.jpg"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\img\\Products\\9bc15c9d3fd52f21c153098f875d00f0.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\9bc15c9d3fd52f21c153098f875d00f0.jpg"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\img\\Products\\9fea304a4b0ec2cdb6a49f5175507ccc.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\9fea304a4b0ec2cdb6a49f5175507ccc.jpg"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\img\\Products\\J7PukjSpRF4uMjVEfkFRVa.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\J7PukjSpRF4uMjVEfkFRVa.jpg"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\img\\Products\\a4cca396cc6b7d5d1a6b458952794a6d.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\a4cca396cc6b7d5d1a6b458952794a6d.jpg"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\img\\Products\\be3f70459e6d13b37dbbfea35060c11b.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\be3f70459e6d13b37dbbfea35060c11b.jpg"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\img\\Products\\be8a343076003b2e5f39895c2dcb141f.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\be8a343076003b2e5f39895c2dcb141f.jpg"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\img\\Products\\c101224ad4f35e8b877bcb913a172dcb.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\c101224ad4f35e8b877bcb913a172dcb.jpg"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\img\\Products\\d4c79842c3f1364acfd6fe7678b385aa.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\d4c79842c3f1364acfd6fe7678b385aa.jpg"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\img\\Products\\ebca57eee23a283329c1bddae0827e29.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\ebca57eee23a283329c1bddae0827e29.jpg"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\img\\Products\\ecde7db705f5860ce2906c0a854a5bd6.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\ecde7db705f5860ce2906c0a854a5bd6.jpg"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\img\\Products\\fa66d12f9e46b7d9e5de1be33d6eb8d5.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\fa66d12f9e46b7d9e5de1be33d6eb8d5.jpg"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\img\\Products\\ff54e9a921d6ba53014867d12254501b.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\ff54e9a921d6ba53014867d12254501b.jpg"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\img\\Products\\flirt.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\flirt.jpg"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\img\\Resources\\banner.jpg",
+      "PackagePath": "staticwebassets\\img\\Resources\\banner.jpg"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\img\\Resources\\banner1.jpg",
+      "PackagePath": "staticwebassets\\img\\Resources\\banner1.jpg"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\img\\Resources\\thanksbanner.png",
+      "PackagePath": "staticwebassets\\img\\Resources\\thanksbanner.png"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\FPTUniversity\\Semester_8\\PRN231\\Project\\SourceCode\\MGiangStore\\MGiangStoreWebClient\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MGiangStoreWebClient.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.MGiangStoreWebClient.props",
+      "PackagePath": "build\\MGiangStoreWebClient.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MGiangStoreWebClient.props",
+      "PackagePath": "buildMultiTargeting\\MGiangStoreWebClient.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.MGiangStoreWebClient.props",
+      "PackagePath": "buildTransitive\\MGiangStoreWebClient.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,14 @@
+D:\FPTUniversity\Semester_8\PRN231\Project\SourceCode\MGiangStore\BusinessObjects\bin\Debug\net6.0\BusinessObjects.deps.json
+D:\FPTUniversity\Semester_8\PRN231\Project\SourceCode\MGiangStore\BusinessObjects\bin\Debug\net6.0\BusinessObjects.runtimeconfig.json
+D:\FPTUniversity\Semester_8\PRN231\Project\SourceCode\MGiangStore\BusinessObjects\bin\Debug\net6.0\BusinessObjects.dll
+D:\FPTUniversity\Semester_8\PRN231\Project\SourceCode\MGiangStore\BusinessObjects\bin\Debug\net6.0\BusinessObjects.pdb
+D:\FPTUniversity\Semester_8\PRN231\Project\SourceCode\MGiangStore\BusinessObjects\obj\Debug\net6.0\BusinessObjects.csproj.AssemblyReference.cache
+D:\FPTUniversity\Semester_8\PRN231\Project\SourceCode\MGiangStore\BusinessObjects\obj\Debug\net6.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPTUniversity\Semester_8\PRN231\Project\SourceCode\MGiangStore\BusinessObjects\obj\Debug\net6.0\BusinessObjects.AssemblyInfoInputs.cache
+D:\FPTUniversity\Semester_8\PRN231\Project\SourceCode\MGiangStore\BusinessObjects\obj\Debug\net6.0\BusinessObjects.AssemblyInfo.cs
+D:\FPTUniversity\Semester_8\PRN231\Project\SourceCode\MGiangStore\BusinessObjects\obj\Debug\net6.0\BusinessObjects.csproj.CoreCompileInputs.cache
+D:\FPTUniversity\Semester_8\PRN231\Project\SourceCode\MGiangStore\BusinessObjects\obj\Debug\net6.0\BusinessObjects.dll
+D:\FPTUniversity\Semester_8\PRN231\Project\SourceCode\MGiangStore\BusinessObjects\obj\Debug\net6.0\refint\BusinessObjects.dll
+D:\FPTUniversity\Semester_8\PRN231\Project\SourceCode\MGiangStore\BusinessObjects\obj\Debug\net6.0\BusinessObjects.pdb
+D:\FPTUniversity\Semester_8\PRN231\Project\SourceCode\MGiangStore\BusinessObjects\obj\Debug\net6.0\BusinessObjects.genruntimeconfig.cache
+D:\FPTUniversity\Semester_8\PRN231\Project\SourceCode\MGiangStore\BusinessObjects\obj\Debug\net6.0\ref\BusinessObjects.dll
